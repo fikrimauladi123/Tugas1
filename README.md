@@ -2,37 +2,13 @@
 
 ## Prints
 <p align="center">
-  <img width="200" src="https://i.pinimg.com/originals/47/19/5c/47195c365a7fa4ae8a86f1fe974d2e04.png"/>
-  <img width="200" src="https://i.pinimg.com/originals/ff/ec/8a/ffec8a59e3cd8dc22db844c251406f2a.png"/>
-  <img width="200" src="https://i.pinimg.com/originals/ee/c3/1e/eec31ec7a8f6d37393ee389a5499f1cf.png"/>
-  <img width="200" src="https://i.pinimg.com/originals/df/95/b9/df95b9e8cc0170b4d9a39084ebc530ad.png"/>
-  <img width="200" src="https://i.pinimg.com/originals/5b/33/14/5b3314976725e8e0d84124e567087e91.png"/>
-  <img width="200" src="https://i.pinimg.com/originals/5f/9d/01/5f9d01d34ef19e62aaa76c26592b0814.png"/>
-  <img width="200" src="https://i.pinimg.com/originals/71/48/83/71488355343439cda79b073705efb022.png"/>
-  <img width="200" src="https://i.pinimg.com/originals/12/dd/f9/12ddf9a45d72eb087366afeb1e7437ae.png"/>
+![Screenshot (316)](https://user-images.githubusercontent.com/101883268/197164050-744c6de4-b2a1-430d-b7fc-b60b0993c038.png)
+![Screenshot (317)](https://user-images.githubusercontent.com/101883268/197164064-10de9a63-f5ae-4683-a8b5-a732c1fc08ea.png)
+![Screenshot (318)](https://user-images.githubusercontent.com/101883268/197164080-b3d11957-48ba-4be0-ab90-5b25966de083.png)
+![Screenshot (319)](https://user-images.githubusercontent.com/101883268/197164086-07928589-d95d-470e-9516-9bc7a98e9380.png)
+![Screenshot (320)](https://user-images.githubusercontent.com/101883268/197164089-accb34ad-0eda-403a-b4b7-1e41a9c2b5bd.png)
+![Screenshot (321)](https://user-images.githubusercontent.com/101883268/197164096-94cc5b7d-08cc-4ce1-98ce-f76965823615.png)
+![Screenshot (322)](https://user-images.githubusercontent.com/101883268/197164102-5b73df48-fd27-44a1-917b-e356cea54921.png)
+
 </p>
 
-## How to use
-
-To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
-
-```
-# Clone this repository
-$ git clone https://github.com/feMoraes0/food-bit-app.git
-
-# Go into the repository
-$ cd food-bit-app
-
-# Install dependencies
-$ flutter packages get
-
-# Run the app
-$ flutter run
-```
-
-## Credits
-  - <a target="_blank" href="https://www.behance.net/gallery/82583397/Food-Bit-App-UI-UX-design-case-study?tracking_source=curated_galleries_list">Design</a>
-
-## Contact
-  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
-  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
