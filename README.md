@@ -12,27 +12,3 @@
 
 </p>
 
-## How to use
-
-To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
-
-```
-# Clone this repository
-$ git clone https://github.com/feMoraes0/food-bit-app.git
-
-# Go into the repository
-$ cd food-bit-app
-
-# Install dependencies
-$ flutter packages get
-
-# Run the app
-$ flutter run
-```
-
-## Credits
-  - <a target="_blank" href="https://www.behance.net/gallery/82583397/Food-Bit-App-UI-UX-design-case-study?tracking_source=curated_galleries_list">Design</a>
-
-## Contact
-  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
-  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
