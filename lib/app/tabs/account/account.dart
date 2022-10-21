@@ -74,7 +74,7 @@ class _AccountState extends State<Account> with TickerProviderStateMixin {
             ),
           ),
           Text(
-            'Muhammad Hanif',
+            'Viqri Mauladi',
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 22.0,
